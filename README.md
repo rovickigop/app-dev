@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+- Breaking Bad
+- Warm Bodies
+- Rick and Morty
